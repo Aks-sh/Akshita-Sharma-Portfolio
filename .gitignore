@@ -1,5 +1,5 @@
 .DS_Store
-/cybersec-website/node_modules/
+/my-website/node_modules/
 
 # React Router
 /.react-router/
